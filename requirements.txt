@@ -1,2 +1,2 @@
 openai
-streamlit-chat
+streamlit_chat
